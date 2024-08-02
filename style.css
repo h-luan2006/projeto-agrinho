@@ -6,7 +6,7 @@ body {
 
 header {
     background-color: #ccff33;
-    color: #10;
+    color: #ccff33;
     padding: 10px 0;
     text-align: center;
 }
@@ -23,7 +23,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #3;
+    color: #ccff33;
     text-decoration: none;
 }
 
@@ -32,8 +32,8 @@ main {
 }
 
 footer {
-    background-color: #333;
-    color: #14;
+    background-color: #ccff33;
+    color: #ccff33;
     text-align: center;
     padding: 10px 0;
     position: fixed;
